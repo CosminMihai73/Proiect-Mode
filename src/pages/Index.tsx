@@ -66,9 +66,9 @@ const Index = () => {
   ]);
 
   const [resources, setResources] = useState<Resource[]>([
-    { name: "Oțel", capacity: 1200 },
-    { name: "Plastic", capacity: 1500 },
-    { name: "Muncă", capacity: 1000 },
+    { name: "Resursă 1", capacity: 1200 },
+    { name: "Resursă 2", capacity: 1500 },
+    { name: "Resursă 3", capacity: 1000 },
     { name: "Resursă 4", capacity: 800 }
   ]);
 
